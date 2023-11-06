@@ -1,16 +1,17 @@
 
 # Hospital Management
-![developer]{#VIHI}
+!developed by VInay Sanepara and khushi Patel
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/vinaypatel367/hospital-management-system/blob/main/static/screenshots/Screenshot%202023-11-03%20220432.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
+![dashboard snap](https://github.com/vinaypatel367/hospital-management-system/blob/main/static/images/Screenshot%202023-11-03%20221534.png)
 ### Invoice
-![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
+![invoice snap](https://github.com/vinaypatel367/hospital-management-system/blob/main/static/screenshots/Screenshot%202023-11-03%20224845.png)
 ### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
+![doctor snap](https://github.com/vinaypatel367/hospital-management-system/blob/main/static/screenshots/Screenshot%202023-11-03%20222822.png)
+
 ---
 ## Functions
 ### Admin
@@ -76,6 +77,5 @@ https://myaccount.google.com/lesssecureapps
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
 ## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+Any suggestion and feedback is welcome. You can message me on Insagram
+- [Contact on Instagram](https://www.instagram.com/vinay_patel367/)
